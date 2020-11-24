@@ -1,4 +1,5 @@
 #include <iostream>
+// 색종이 붙이기. 브루트포스 + 백트랙킹
 
 using namespace std;
 
